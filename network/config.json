@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "connection",
-    "colorLabel": "Mudularity class",
+    "colorLabel": "",
     "nodeLabel": "users"
   },
   "features": {
@@ -23,7 +23,7 @@
     "hoverBehavior": "default"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
+    "groupByEdgeDirection": true,
     "imageAttribute": "Label"
   },
   "sigma": {
